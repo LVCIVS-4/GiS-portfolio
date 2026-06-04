@@ -20,6 +20,7 @@ UTM Zone 10N, NAD83 (EPSG:26910) — to be confirmed on import
 | National Forest System Trails | USFS | Shapefile | 2026-05 |
 | NHD Washington State | USGS NHD | Geodatabase | 2026-05 |
 | DEM 1/3 arc-second n47w122 | USGS National Map | GeoTIFF | 2026-05 |
+| Simplified Volcanic Hazards (USGS) | WA DNR / USGS | Map Service | 2026-06 |
 
 ## Status
 - [x] Folder structure created  
@@ -28,4 +29,5 @@ UTM Zone 10N, NAD83 (EPSG:26910) — to be confirmed on import
 - [x] Route extracted from USFS National Forest System Trails data (LOOWIT + JUNE LAKE segments) 
 - [x] Add camp sites, water sources, no camp zone, and trail layers
 - [x] Attribute table updated - Day_Segment field added
+- [x] Lahar hazard zone added via WA DNR map service
 - [ ] Elevation profile extracted

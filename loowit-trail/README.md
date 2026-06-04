@@ -22,8 +22,10 @@ UTM Zone 10N, NAD83 (EPSG:26910) — to be confirmed on import
 | DEM 1/3 arc-second n47w122 | USGS National Map | GeoTIFF | 2026-05 |
 
 ## Status
-- [ ] Folder structure created  
-- [ ] Layers loaded into ArcGIS Pro  
-- [ ] CRS confirmed and project projection set  
-- [ ] Route digitized  
+- [x] Folder structure created  
+- [x] Layers loaded into ArcGIS Pro  
+- [x] CRS confirmed and project projection set  
+- [x] Route extracted from USFS National Forest System Trails data (LOOWIT + JUNE LAKE segments) 
+- [x] Add camp sites, water sources, no camp zone, and trail layers
+- [x] Attribute table updated - Day_Segment field added
 - [ ] Elevation profile extracted
